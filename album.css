@@ -1,0 +1,21 @@
+ p > img {position:absolute;
+		top:70px;
+		left:400px;}
+
+h1 > img {position:absolute;
+		top:350px;
+		left:80px;}
+
+h2 > img {position:absolute;
+		top:350px;
+		left:960px;}
+
+
+h3 > img {position:absolute;
+		top:390px;
+		left:515px;}
+
+
+h4 > img {position:absolute;
+		top:560px;
+		left:485px;}
